@@ -160,4 +160,4 @@
 如有问题，请查看服务器日志文件，搜索`umoift`相关错误信息。
 
 ## 📞 支持
-如有问题，请联系：Hei_wan_Feng@outlook.com
+如有问题，请联系：studio@ethernos.cn
