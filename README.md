@@ -6,7 +6,7 @@
 
 ## 项目概述
 
-UMOIFT-Classic（Universal Mod of Infinite Flame Team - Classic Edition）是一款专为 Minecraft 1.20.1 开发的专业级 Forge 模组，由 Infinite Flame Team (现Ethernos Studio) 精心打造。本模组集成了先进的彩色照明系统、完善的领地管理机制以及灵活的对话框交互系统，致力于为玩家提供更加丰富的游戏体验。
+UMOIFT-Classic（Universal Mod of Infinite Flame Team - Classic Edition）是一款专为 Minecraft 1.20.1 开发的专业级 Forge 模组。本模组集成了先进的彩色照明系统、完善的领地管理机制以及灵活的对话框交互系统，致力于为玩家提供更加丰富的游戏体验。
 
 ![彩色灯具系统演示](/images/UMOIFT.png)
 
